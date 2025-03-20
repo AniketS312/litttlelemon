@@ -1,0 +1,4 @@
+restaurant/ - static html
+admin/ - username: user, password user312, email: user@user.com -- use following to log in and access admin
+restaurant/menu/  -- serves menu items
+restaurant/booking/ -serves booking items
